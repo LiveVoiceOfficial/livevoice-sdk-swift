@@ -23,7 +23,7 @@ background mode to your app's capabilities.
 
 Klick the project in Xcode's project navigator and select your target. In the 
 `Signing and Capabilities` tab, add the `Background Modes` Capability (if it isn't already present) 
-and check the `Voice over IP` box. This will add the proper key to your app's Info.plist file.
+and check the `Audio, AirPlay, and Picture in Picture` box. This will add the proper key to your app's Info.plist file.
 
 ## Getting Started
 
