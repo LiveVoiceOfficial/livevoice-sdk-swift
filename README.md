@@ -36,7 +36,7 @@ following dependency to your Package.swift:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/LiveVoiceOfficial/livevoice-sdk-swift", from: "1.0.1"),
+    .package(url: "https://github.com/LiveVoiceOfficial/livevoice-sdk-swift", from: "2.0.0"),
 ]
 ```
 You can then add the specific product dependency to your target:
