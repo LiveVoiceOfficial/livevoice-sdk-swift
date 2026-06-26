@@ -1,5 +1,9 @@
 # Changelog LiveVoice SDK
 
+### 2.0.2 - June 26, 2026
+
+- Bugfixes
+
 ### 2.0.0 - June 3, 2026
 
 - Updated for LiveVoice 5.0 model changes and UI
