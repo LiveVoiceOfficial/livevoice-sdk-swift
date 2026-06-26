@@ -10,7 +10,7 @@ well as present a channel's live subtitles if available.
 Using the LiveVoice SDK requires an account with SDK access enabled. Depending on your subscription, 
 the SDK allows for hiding the LiveVoice branding or using a fully customized presentation. For more 
 information contact sdk-support@livevoice.io . Once SDK access has been granted, you can see your 
-personal API-key at the bottom of your account page at https://livevoice.io/en/account .
+personal API-key at the bottom of your account page at https://livevoice.io/en/account/api .
 
 ## Supported Platforms
 

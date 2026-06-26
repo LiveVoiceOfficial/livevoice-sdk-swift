@@ -1,4 +1,4 @@
-// swift-tools-version: 5.10
+// swift-tools-version: 6.1
 // ===----------------------------------------------------------------------===//
 //
 //  This source file is part of the LiveVoice SDK project
@@ -23,8 +23,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LiveVoiceSDK",
-            url: "https://sdk.livevoice.io/ios/sdk/2.0.0/LiveVoiceSDK.xcframework.zip",
-            checksum: "579646a9e82322755b3f62d713ae89a9bc683f2591436d5e57cb28d9251b18ab"
+            url: "https://sdk.livevoice.io/ios/sdk/2.0.2/LiveVoiceSDK.xcframework.zip",
+            checksum: "d02d583b4a7c14ce21ff51cc9e78e5eec778fb37c34cca93bede87acee16df4c"
         ),
         .binaryTarget(
             name: "LiveVoiceRTC",
