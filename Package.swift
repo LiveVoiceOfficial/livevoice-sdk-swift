@@ -23,13 +23,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LiveVoiceSDK",
-            url: "https://sdk.livevoice.io/ios/sdk/2.0.2/LiveVoiceSDK.xcframework.zip",
-            checksum: "d02d583b4a7c14ce21ff51cc9e78e5eec778fb37c34cca93bede87acee16df4c"
+            url: "https://sdk.livevoice.io/ios/sdk/3.0.0/LiveVoiceSDK.xcframework.zip",
+            checksum: "dabb0881f395c0134ac0c943e52e327fb34dc891a4df14f7e9d5ac6ca105b21e"
         ),
         .binaryTarget(
             name: "LiveVoiceRTC",
-            url: "https://sdk.livevoice.io/ios/webrtc/WebRTC-M140.xcframework.zip",
-            checksum: "0d61faf67dd145545bf8a0017bdcdbe7a9a1f3a96cce0d501e526655711d98d2"
+            url: "https://sdk.livevoice.io/lv-webrtc/M156/darwin/WebRTC-M156.xcframework.zip",
+            checksum: "2e5a6af014a58df29a98f76ba3ac550ca264a705192bdf0c6927be6dd2dad205"
         )
     ]
 )
